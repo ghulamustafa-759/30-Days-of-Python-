@@ -1,5 +1,8 @@
 import random
+import ascid12
 
+
+print(ascid12.art)
 print("Welcome to the Number Guessing Game ! \nI'm thinking of a number between 1 and 100 ")
 
 
