@@ -34,7 +34,8 @@ while game_should_continue:
             return guess == "b"
 
     is_correct = check_answer(guess, a_follower_count, b_follower_count)
-
+    
+    clear()
 
 
     if is_correct:
