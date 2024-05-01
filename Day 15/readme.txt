@@ -1,1 +1,0 @@
-Intermediate Coffee Machine project.
