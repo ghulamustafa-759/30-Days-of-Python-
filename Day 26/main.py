@@ -1,1 +1,5 @@
-print("djn")
+import numpy
+
+na = numpy()
+
+na.read()
